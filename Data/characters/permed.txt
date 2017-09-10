@@ -3,18 +3,18 @@ character-username = permed
 character-password = a9b101254b2b266a7bfccfe70aca0465
 
 [CHARACTER]
-character-rights = 0
-character-rights-secondary = 0
-revert-option = 
-mode = REGULAR
-tutorial-stage = START
+character-rights = 13
+character-rights-secondary = 0	13
+revert-option = PERMANENT
+mode = IRON_MAN
+tutorial-stage = END
 character-height = 0
 character-hp = 10
-play-time = 150
+play-time = 1932
 last-clan = Help
 character-specRestore = 0
-character-posx = 3088
-character-posy = 3499
+character-posx = 3087
+character-posy = 3490
 bank-pin = 
 bank-pin-cancellation = false
 bank-pin-unlock-delay = 0
@@ -27,6 +27,7 @@ lootvalue = 0
 raidPoints = 0
 experience-counter = 0
 character-title-updated = 
+connected-from = 188.222.214.46
 removed-slayer-tasks = 			
 last-incentive = 0
 rfd-round = 0
@@ -71,7 +72,7 @@ verac = false
 barrows-final-brother = Ahrim
 barrows-monsters-killcount = 0
 barrows-completed = false
-special-amount = 4.0
+special-amount = 10.0
 prayer-amount = 1.0
 KC =0
 DC =0
@@ -139,14 +140,14 @@ safeBoxSlots = 15
 lost-items = 
 lost-items-cerberus = 
 [EQUIPMENT]
-character-equip = 0	-1	1	
+character-equip = 0	12810	1	
 character-equip = 1	-1	1	
 character-equip = 2	-1	1	
 character-equip = 3	-1	0	
-character-equip = 4	-1	1	
+character-equip = 4	12811	1	
 character-equip = 5	-1	1	
 character-equip = 6	-1	0	
-character-equip = 7	-1	1	
+character-equip = 7	12812	1	
 character-equip = 8	-1	0	
 character-equip = 9	-1	1	
 character-equip = 10	-1	1	
@@ -156,7 +157,7 @@ character-equip = 13	-1	0
 
 [LOOK]
 character-look = 0	0
-character-look = 1	0
+character-look = 1	3
 character-look = 2	18
 character-look = 3	26
 character-look = 4	33
@@ -228,6 +229,8 @@ item = 	13119	1	2017-09-09 10:34:02
 [SAFEBOX]
 
 [FRIENDS]
+character-friend = 558508642816332
+character-friend = 279971649
 
 
 [HOLIDAY-EVENTS]

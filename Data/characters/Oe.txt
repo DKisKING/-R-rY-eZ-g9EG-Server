@@ -9,12 +9,12 @@ revert-option = PERMANENT
 mode = ULTIMATE_IRON_MAN
 tutorial-stage = END
 character-height = 0
-character-hp = 60
-play-time = 55031
+character-hp = 80
+play-time = 97420
 last-clan = Help
 character-specRestore = 0
-character-posx = 2970
-character-posy = 3344
+character-posx = 2336
+character-posy = 3170
 bank-pin = 
 bank-pin-cancellation = false
 bank-pin-unlock-delay = 0
@@ -25,7 +25,7 @@ accept-aid = false
 did-you-know = true
 lootvalue = 0
 raidPoints = 0
-experience-counter = 15546171
+experience-counter = 59388776
 character-title-updated = 
 connected-from = 75.67.72.154
 removed-slayer-tasks = 			
@@ -49,7 +49,7 @@ wave-id = 0
 wave-type = 0
 wave-info = 0	0	0
 master-clue-reqs = 0	0	0	0
-counters = 2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+counters = 3	4	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 max-cape = false	false	false	false	false
 zulrah-best-time = 0
 toxic-staff = 0
@@ -73,7 +73,7 @@ barrows-final-brother = Guthan
 barrows-monsters-killcount = 0
 barrows-completed = false
 special-amount = 10.0
-prayer-amount = 0.900000000000005
+prayer-amount = 0.8597315436241606
 KC =0
 DC =0
 total-hunter-kills = 0
@@ -104,7 +104,7 @@ MorytaniaClaimedDiaries =
 WesternClaimedDiaries = 
 WildernessClaimedDiaries = 
 diaries = COOK_MONK
-partialDiaries = COMPOST_BUCKET:16,PICK_FLAX:5,KILL_WHITE_KNIGHT:30,PICKPOCKET_MAN:6,PICKPOCKET_MASTER_FARMER_FAL:26,KILL_ROCK_CRAB:49,GNOME_AGILITY:3
+partialDiaries = KILL_WHITE_KNIGHT:79,COMPOST_BUCKET:16,PICK_FLAX:5,PICKPOCKET_MASTER_FARMER_FAL:26,PICKPOCKET_MAN:6,KILL_ROCK_CRAB:49,GNOME_AGILITY:3
 pc-points = 0
 killStreak = 0
 bonus-end = 0
@@ -127,7 +127,7 @@ gwkc = 0
 fightMode = 2
 privatechat = 0
 void = 0	0	0	0	0
-quickprayer = false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	
+quickprayer = false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	
 pouch-rune = 0	0	0
 pouch-pure = 0	0	0
 crabsKilled = 0
@@ -144,15 +144,15 @@ lost-items-cerberus =
 [EQUIPMENT]
 character-equip = 0	1163	1	
 character-equip = 1	10499	1	
-character-equip = 2	-1	1	
+character-equip = 2	1712	1	
 character-equip = 3	1333	1	
 character-equip = 4	9674	1	
-character-equip = 5	1201	1	
+character-equip = 5	4224	1	
 character-equip = 6	-1	0	
 character-equip = 7	9678	1	
 character-equip = 8	-1	0	
 character-equip = 9	-1	1	
-character-equip = 10	-1	1	
+character-equip = 10	4131	1	
 character-equip = 11	-1	0	
 character-equip = 12	-1	1	
 character-equip = 13	892	11	
@@ -173,12 +173,12 @@ character-look = 11	0
 character-look = 12	0
 
 [SKILLS]
-character-skill = 0	75	1211040
-character-skill = 1	70	760800
-character-skill = 2	90	5553000
-character-skill = 3	68	2581580
+character-skill = 0	99	13048800
+character-skill = 1	99	13036800
+character-skill = 2	99	14671800
+character-skill = 3	68	13659100
 character-skill = 4	57	216000
-character-skill = 5	0	55475
+character-skill = 5	17	56350
 character-skill = 6	1	0
 character-skill = 7	80	2061648
 character-skill = 8	13	2100
@@ -188,7 +188,7 @@ character-skill = 11	1	0
 character-skill = 12	3	240
 character-skill = 13	1	0
 character-skill = 14	1	0
-character-skill = 15	29	12036
+character-skill = 15	29	12166
 character-skill = 16	30	14400
 character-skill = 17	66	510472
 character-skill = 18	13	1920
@@ -200,19 +200,17 @@ character-skill = 23	1	0
 character-skill = 24	1	0
 
 [ITEMS]
-character-item = 0	996	119654
-character-item = 1	7948	55
-character-item = 2	5342	1
-character-item = 3	5344	1
-character-item = 4	211	6
-character-item = 5	1926	1
-character-item = 6	5341	1
-character-item = 7	5302	1
-character-item = 8	5293	2
-character-item = 9	5299	1
-character-item = 10	5295	2
-character-item = 11	5298	1
-character-item = 12	13261	1
+character-item = 0	996	123713
+character-item = 1	990	1
+character-item = 2	990	1
+character-item = 3	13261	1
+character-item = 4	7947	1
+character-item = 5	7947	1
+character-item = 6	7947	1
+character-item = 7	7947	1
+character-item = 9	4225	1
+character-item = 10	2369	1
+character-item = 12	380	1
 
 [RECHARGEITEMS]
 item = 	0	3	2017-09-08 13:34:57
@@ -244,6 +242,7 @@ item = 	13119	1	2017-09-08 13:34:57
 [SAFEBOX]
 
 [FRIENDS]
+character-friend = 5576
 
 
 [HOLIDAY-EVENTS]
@@ -255,7 +254,7 @@ claim-state = false	false	false	false	false	false	false	false	false	false	false	
 [ACHIEVEMENTS-TIER-1]
 mr_rock = 49	false
 chicken = 51	false
-npc_killer = 273	false
+npc_killer = 922	false
 novice_fisher = 854	false
 novice_chef = 600	false
 novice_farmer = 16	false
@@ -264,13 +263,13 @@ novice_chopper = 5	false
 novice_fletcher = 5	false
 novice_thief = 495	false
 novice_runner = 2	false
-loot_chest = 3	false
+loot_chest = 8	false
 high_hits = 1	false
-clue = 2	false
+clue = 7	false
 
 
 [ACHIEVEMENTS-TIER-2]
-murderer = 273	false
+murderer = 922	false
 intermediate_fisher = 854	false
 intermediate_chef = 600	false
 intermediate_farmer = 16	false
@@ -279,13 +278,13 @@ intermediate_chopper = 5	false
 intermediate_fletcher = 5	false
 intermediate_thief = 495	false
 intermediate_runner = 2	false
-chest_looter = 3	false
+chest_looter = 8	false
 dharoker = 1	false
-clue_scroller = 2	false
+clue_scroller = 7	false
 
 
 [ACHIEVEMENTS-TIER-3]
-slaughterer = 273	false
+slaughterer = 922	false
 expert_fisher = 854	false
 expert_chef = 600	false
 expert_farmer = 16	false
@@ -293,9 +292,9 @@ expert_mixer = 15	false
 expert_chopper = 5	false
 expert_fletcher = 5	false
 expert_thief = 495	false
-dig_for_gold = 3	false
+dig_for_gold = 8	false
 looter = 1	false
-clue_champ = 2	false
+clue_champ = 7	false
 
 [IGNORES]
 
@@ -330,13 +329,14 @@ Equipment#9 =
 chicken = 51
 crawling hand = 55
 rock crab = 49
+elf warrior = 600
 dharok the wretched = 1
 ahrim the blighted = 1
 karil the tainted = 1
 skeleton = 36
 guthan the infested = 1
 verac the defiled = 1
-white knight = 30
+white knight = 79
 torag the corrupted = 1
 moss giant = 25
 fire giant = 21

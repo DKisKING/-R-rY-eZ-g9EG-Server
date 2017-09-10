@@ -1,5 +1,5 @@
 [ACCOUNT]
-character-username = raidenowns
+character-username = Raidenowns
 character-password = 6cd7423c8a4d08231deadf00d9b99857
 
 [CHARACTER]
@@ -10,11 +10,11 @@ mode = REGULAR
 tutorial-stage = END
 character-height = 0
 character-hp = 10
-play-time = 5761
+play-time = 6177
 last-clan = Help
 character-specRestore = 0
-character-posx = 3082
-character-posy = 3509
+character-posx = 3091
+character-posy = 3494
 bank-pin = 
 bank-pin-cancellation = false
 bank-pin-unlock-delay = 0

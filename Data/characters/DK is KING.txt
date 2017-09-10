@@ -9,12 +9,12 @@ revert-option = PERMANENT
 mode = ULTIMATE_IRON_MAN
 tutorial-stage = END
 character-height = 0
-character-hp = 66
-play-time = 46097
+character-hp = 36
+play-time = 85871
 last-clan = Help
 character-specRestore = 0
-character-posx = 3028
-character-posy = 3383
+character-posx = 3088
+character-posy = 3502
 bank-pin = 
 bank-pin-cancellation = false
 bank-pin-unlock-delay = 0
@@ -25,10 +25,12 @@ accept-aid = false
 did-you-know = true
 lootvalue = 0
 raidPoints = 0
-experience-counter = 6323841
+experience-counter = 24911747
 character-title-updated = 
 connected-from = 217.42.63.76
 connected-from = 92.23.122.219
+connected-from = 92.23.143.239
+connected-from = 92.23.132.138
 removed-slayer-tasks = 			
 last-incentive = 0
 rfd-round = 0
@@ -60,7 +62,7 @@ toxic-pipe-charge = 0
 serpentine-helm = 0
 trident-of-the-seas = 0
 trident-of-the-swamp = 0
-slayerPoints = 0
+slayerPoints = 90
 crystal-bow-shots = 0
 skull-timer = 0
 magic-book = 0
@@ -104,8 +106,8 @@ LumbridgeClaimedDiaries =
 MorytaniaClaimedDiaries = 
 WesternClaimedDiaries = 
 WildernessClaimedDiaries = 
-diaries = CHOP_WILLOW,PICK_FLAX,TELEPORT_ESSENCE_FAL,PICKPOCKET_MAN
-partialDiaries = KILL_ROCK_CRAB:7,BARBARIAN_AGILITY:2,GNOME_AGILITY:12,COOK_MONK:148
+diaries = MINE_ESSENCE,CHOP_WILLOW,TELEPORT_ESSENCE_FAL,PICK_FLAX,PICKPOCKET_MAN,DURADEL,KILL_BANSHEE,MAZCHNA,ABYSS_TELEPORT,KILL_EARTH_WARRIOR
+partialDiaries = KILL_ROCK_CRAB:37,BARBARIAN_AGILITY:2,COOK_MONK:148,GNOME_AGILITY:12
 pc-points = 0
 killStreak = 0
 bonus-end = 0
@@ -114,8 +116,10 @@ mute-end = 0
 marketmute-end = 0
 last-yell = 0
 splitChat = false
-slayer-master = 0
-consecutive-tasks = 0
+slayer-task = black demon
+slayer-task-amount = 83
+slayer-master = 405
+consecutive-tasks = 5
 mage-arena-points = 0
 autoRet = 1
 flagged = false
@@ -141,17 +145,17 @@ safeBoxSlots = 15
 lost-items = 
 lost-items-cerberus = 
 [EQUIPMENT]
-character-equip = 0	-1	0	
-character-equip = 1	-1	1	
+character-equip = 0	13379	1	
+character-equip = 1	10499	1	
 character-equip = 2	-1	1	
-character-equip = 3	863	118	
+character-equip = 3	7142	1	
 character-equip = 4	13381	1	
 character-equip = 5	-1	1	
 character-equip = 6	-1	0	
-character-equip = 7	-1	0	
+character-equip = 7	13380	1	
 character-equip = 8	-1	0	
 character-equip = 9	13377	1	
-character-equip = 10	-1	0	
+character-equip = 10	13378	1	
 character-equip = 11	-1	0	
 character-equip = 12	2572	1	
 character-equip = 13	20220	1	
@@ -172,46 +176,49 @@ character-look = 11	0
 character-look = 12	0
 
 [SKILLS]
-character-skill = 0	65	471840
-character-skill = 1	61	330660
-character-skill = 2	69	720360
-character-skill = 3	10	508920
-character-skill = 4	39	33750
-character-skill = 5	30	37625
-character-skill = 6	1	0
-character-skill = 7	74	1176768
+character-skill = 0	89	5317240
+character-skill = 1	90	5498440
+character-skill = 2	90	5578360
+character-skill = 3	10	5582530
+character-skill = 4	66	531540
+character-skill = 5	43	141050
+character-skill = 6	29	13050
+character-skill = 7	81	2222784
 character-skill = 8	65	489548
 character-skill = 9	63	373360
 character-skill = 10	80	2189280
 character-skill = 11	1	0
 character-skill = 12	22	5800
 character-skill = 13	45	67258
-character-skill = 14	31	15876
-character-skill = 15	1	0
+character-skill = 14	41	42576
+character-skill = 15	2	150
 character-skill = 16	44	57200
 character-skill = 17	52	132976
-character-skill = 18	1	0
+character-skill = 18	61	304680
 character-skill = 19	1	0
-character-skill = 20	1	0
+character-skill = 20	43	54540
 character-skill = 21	1	0
 character-skill = 22	1	0
 character-skill = 23	1	0
 character-skill = 24	1	0
 
 [ITEMS]
-character-item = 0	13380	1
-character-item = 1	13381	1
-character-item = 2	13379	1
-character-item = 18	304	1
-character-item = 19	7948	86
-character-item = 20	7143	1
+character-item = 0	7938	487
+character-item = 1	379	108
+character-item = 2	557	472
+character-item = 3	555	270
+character-item = 16	381	283
+character-item = 17	563	163
+character-item = 18	1354	1
+character-item = 19	1266	1
+character-item = 20	864	52
 character-item = 21	11942	1
 character-item = 22	12792	1
-character-item = 23	11938	2000
-character-item = 24	54	75
+character-item = 23	11938	1999
+character-item = 24	7948	85
 character-item = 25	10552	1
 character-item = 26	315	840
-character-item = 27	996	7615888
+character-item = 27	996	8251921
 
 [RECHARGEITEMS]
 item = 	0	3	2017-09-08 13:25:20
@@ -236,8 +243,21 @@ item = 	13119	1	2017-09-08 13:25:20
 bag-item = 0	7409	1
 bag-item = 1	1044	1
 bag-item = 2	1631	1
+bag-item = 3	1127	1
+bag-item = 4	1631	1
+bag-item = 5	1631	1
+bag-item = 6	10976	1
+bag-item = 7	452	35
+bag-item = 8	1631	1
+bag-item = 9	1631	1
+bag-item = 10	1631	1
+bag-item = 11	5293	10
+bag-item = 12	13067	100
 
 [RUNEPOUCH]
+pouch-item = 0	561	6
+pouch-item = 1	558	33
+pouch-item = 2	564	113
 
 [HERBSACK]
 
@@ -257,45 +277,51 @@ claim-state = false	false	false	false	false	false	false	false	false	false	false	
 
 
 [ACHIEVEMENTS-TIER-1]
-mr_rock = 7	false
+mr_rock = 37	false
 chicken = 28	false
-npc_killer = 96	false
+npc_killer = 473	false
+novice_boss_killer = 6	false
 novice_fisher = 544	false
-novice_chef = 353	false
-novice_miner = 49	false
+novice_chef = 695	false
+novice_miner = 405	false
 novice_smith = 146	false
 novice_chopper = 382	false
 novice_fletcher = 371	false
 novice_thief = 232	false
 novice_runner = 8	false
-loot_chest = 1	false
+slayer = 5	false
+loot_chest = 6	false
 clue = 2	false
 
 
 [ACHIEVEMENTS-TIER-2]
-murderer = 96	false
+murderer = 473	false
+boss_murderer = 6	false
 intermediate_fisher = 544	false
-intermediate_chef = 353	false
-intermediate_miner = 49	false
+intermediate_chef = 695	false
+intermediate_miner = 405	false
 intermediate_smith = 146	false
 intermediate_chopper = 382	false
 intermediate_fletcher = 371	false
 intermediate_thief = 232	false
 intermediate_runner = 8	false
-chest_looter = 1	false
+slayer_destroyer = 5	false
+chest_looter = 6	false
 clue_scroller = 2	false
 
 
 [ACHIEVEMENTS-TIER-3]
-slaughterer = 96	false
+slaughterer = 473	false
+boss_slaughterer = 6	false
 expert_fisher = 544	false
-expert_chef = 353	false
-expert_miner = 49	false
+expert_chef = 695	false
+expert_miner = 405	false
 expert_smith = 146	false
 expert_chopper = 382	false
 expert_fletcher = 371	false
 expert_thief = 232	false
-dig_for_gold = 1	false
+slayer_expert = 5	false
+dig_for_gold = 6	false
 clue_champ = 2	false
 
 [IGNORES]
@@ -330,8 +356,14 @@ Equipment#9 =
 [NPC-TRACKER]
 skeleton = 51
 chicken = 28
-rock crab = 7
-cow = 10
+ice giant = 54
+rock crab = 37
+earth warrior = 70
+elf warrior = 63
+banshee = 76
+cow = 39
+hellhound = 49
+black demon = 6
 
 [EOF]
 
