@@ -19,4 +19,5 @@ hs_err_pid*
 
 #Set files to ignore
 Data/characters/Boop.txt
-.Server start.bat
+Local_Server.bat
+Data/characters/Boop.txt
